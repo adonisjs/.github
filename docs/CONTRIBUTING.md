@@ -11,53 +11,37 @@ Code is not the only way to contribute. Following are also some ways to contribu
 - Help the community in discord and the discussions forum
 
 ## Reporting bugs
-A good number of issues reported on open source projects are usually questions or misconfiguration at the reporter's end. Therefore, we highly recommend you properly troubleshoot your issues before reporting them.
+Many issues reported on open source projects are usually questions or misconfiguration at the reporter's end. Therefore, we highly recommend you properly troubleshoot your issues before reporting them.
 
 If you're reporting a bug, include as much information as possible with the code samples you have written. The scale of good to bad issues looks as follows.
 
 - **PERFECT ISSUE**: You isolate the underlying bug. Create a failing test in the repo and open a Github issue around it.
 - **GOOD ISSUE**: You isolate the underlying bug and provide a minimal reproduction of it as a Github repo. Antfu has written a great article on [Why Reproductions are Required](https://antfu.me/posts/why-reproductions-are-required).
-- **DECENT ISSUE**: You correctly state your issue. Share the code that produces the issue in the first place. Also, include the related configuration files and the version of the package you are using.
+- **DECENT ISSUE**: You correctly state your issue. Share the code that produces the issue in the first place. Also, include the related configuration files and the package version you use.
 
   Last but not least is to format every code block properly by following the [Github markdown syntax guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 - **POOR ISSUE**: You dump the question you have with the hope that the other person will ask the relevant questions and help you. These kinds of issues are closed automatically without any explanation.
 
 ## Having a discussion
-You often just want to discuss a topic or maybe share some ideas. In that case, create a discussion in the [discussions forum](https://github.com/adonisjs/core/discussions/new?category=ideas) under the **💡Ideas** category.
+You often want to discuss a topic or maybe share some ideas. In that case, create a discussion in the discussions forum under the **💡Ideas** category.
 
 ## Educating others
 Educating others is one of the best ways to contribute to any community and earn recognition. 
 
-You can use the [**📚 Cookbooks** category](https://github.com/adonisjs/core/discussions/new?category=cookbooks) on our discussion forum to share an article with others. The cookbooks section is NOT strictly moderated, except the shared knowledge should be relevant to the project.
+You can use the **📚 Cookbooks** category on our discussion forum to share an article with others. The cookbooks section is NOT strictly moderated, except the shared knowledge should be relevant to the project.
 
 ## Creating pull requests
-It is never a good experience to have your pull request declined after investing a lot of time and effort in writing the code. Therefore, we highly recommend you to kick off a discussion before starting any new work on your side.
+It is never a good experience to have your pull request declined after investing a lot of time and effort in writing the code. Therefore, we highly recommend you to [kick off a discussion]() before starting any new work on your side.
 
-### General guidelines
-Just start a [discussion](https://github.com/adonisjs/core/discussions/new?category=general) and explain what are you planning to contribute? 
+Just start a discussion and explain what are you planning to contribute? 
 
 - **Are you trying to create a PR to fix a bug**: PRs for bugs are mostly accepted once the bug has been confirmed.
 - **Are you planning to add a new feature**: Please thoroughly explain why this feature is required and share links to the learning material we can read to educate ourselves.
 
   For example: If you are adding support for snapshot testing to Japa or AdonisJS. Then share the links I can use to learn more about snapshot testing in general.
 
-### Prerequisites
-- Don't open a pull request if you don't plan to see it through. Maintainers waste a lot of time giving feedback on pull requests that eventually go stale.
-- Don't do unrelated changes.
-- Adhere to the existing code style.
-- If relevant, add tests, check for typos, and add docs and types.
-- Don't add editor-specific metafiles. Those should be added to your own [global gitignore](https://gist.github.com/subfuzion/db7f57fff2fb6998a16c).
-- Please do not use Yarn or Pnpm to install dependencies. We use npm and it comes with all the installations of Node.
-
-### Submission
-- All pull requests should be created against the `develop` branch. Github will suggest this branch by default, so please do not change it.
-- If you are creating a pull requests for the Next breaking change version, then create it against the `next` branch.
-
-### Review
-- Push new commits when doing changes to the pull request. Don't squash as it makes it hard to see what changed since the last review. I will squash when merging.
-- Review the pull request diff after each new commit. It's better that you catch mistakes early than the maintainers pointing it out and having to go back and forth.
-- Be patient. Maintainers often have a lot of pull requests to review. Feel free to bump the pull request if you haven't received a reply in a couple of weeks.
+> Note: You should also be available to open additional PRs for documenting the contributed feature or improvement.
 
 ## Repository setup
 
@@ -125,7 +109,5 @@ npm run lint
 
 ## Getting recognized as a contributor
 We rely on Github to list all the repo contributors in the right-side panel of the repo. Following is an example of the same.
-
-![](./contributors.png)
 
 Also, we use the [auto generate release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes#about-automatically-generated-release-notes) feature of Github, which adds a reference to the contributor profile within the release notes.
