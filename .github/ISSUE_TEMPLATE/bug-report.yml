@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Please carefully read the contribution docs before creating a bug report
-        👉 https://v3.nuxtjs.org/community/reporting-bugs
+        👉 https://github.com/adonisjs/.github/blob/main/docs/CONTRIBUTING.md
 
   - type: input
     id: package-version
