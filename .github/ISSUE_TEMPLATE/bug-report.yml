@@ -12,7 +12,7 @@ body:
     id: package-version
     attributes:
       label: Package version
-      description: You can run `npm info <pkg-name> --depth=0` to check the package version
+      description: You can run `npm ls <pkg-name>` to check the package version
       placeholder: Package version
     validations:
       required: true
