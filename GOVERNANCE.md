@@ -64,7 +64,7 @@ Users should be encouraged to participate in the life of the project and the com
 - Evangelizing about the project.
 - Informing developers of project strengths and weaknesses from a new user's perspective.
 - Providing moral support (a 'thank you' goes a long way).
-- Providing financial support through Github Sponsors.
+- Providing financial support through GitHub Sponsors.
 
 Users who continue to engage with the project and its community will often find themselves becoming more and more involved. Such users may then go on to become contributors, as described above.
 
