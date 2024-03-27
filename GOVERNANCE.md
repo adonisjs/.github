@@ -82,7 +82,7 @@ If you run a business using the project as a revenue-generating product, it make
 
 AdonisJS (spelled with "JS" at the end) is a registered trademark of Harminder Virk.
 
-Only the projects under the `@adonisjs` npm scope and the AdonisJS Github organization are managed and officially supported by the core team.
+Only the projects under the `@adonisjs` npm scope and the AdonisJS GitHub organization are managed and officially supported by the core team.
 
 Also, you must not use the AdonisJS name or logos in a way that could mistakenly imply any official connection with or endorsement of AdonisJS. Any use of the AdonisJS name or logos in a manner that could cause customer confusion is not permitted.
 
