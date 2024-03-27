@@ -14,7 +14,7 @@ Harminder Virk (the creator of AdonisJS) serves as the Project Author. The proje
 
 AdonisJS is a combination of several packages created and managed by the core team. All of these packages are led by a project lead selected by the project Author. 
 
-In almost every case, the creator of the project serves as the project lead since they are the ones who have put the initial efforts into bringing the idea to life.
+In almost every case, the creator of the package serves as the project lead since they are the ones who have put the initial efforts into bringing the idea to life.
 
 The project lead has the final say in all aspects of decision-making within the project. However, because the community always has the ability to fork, this person is fully answerable to the community. It is the project lead's responsibility to set the strategic objectives of the project and communicate these clearly to the community. They also have to understand the community as a whole and strive to satisfy as many conflicting needs as possible while ensuring that the project survives in the long term.
 
