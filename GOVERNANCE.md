@@ -4,7 +4,7 @@
 
 ### Authors
 
-Harminder Virk (the creator of AdonisJS) serves as the Project Author. The project author is responsible for the project's governance, standards, and direction. To summarize.
+Harminder Virk (the creator of AdonisJS) serves as the Project Author. The project author is responsible for the project's governance, standards, and direction. To summarize:
 
 - The project author decides which new projects should live under the AdonisJS umbrella.
 - The project author is responsible for assigning leads to projects and transferring projects to a new lead when an existing lead steps down.
