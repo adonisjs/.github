@@ -94,7 +94,7 @@ Additionally, you may not use our trademarks for t-shirts, stickers, or other me
 
 ## Projects under AdonisJS umbrella
 
-Projects under the AdonisJS umbrella are the intellectual property of the Project Author. Once a project created by a project lead becomes part of the "AdonisJS Github organization," or if it is published under the `@adonisjs` npm scope, the project leads cannot delete or abandon the project.
+Projects under the AdonisJS umbrella are the intellectual property of the Project Author. Once a project created by a project lead becomes part of the "AdonisJS GitHub organization," or if it is published under the `@adonisjs` npm scope, the project leads cannot delete or abandon the project.
 
 ---
 
