@@ -31,7 +31,7 @@ Educating others is one of the best ways to contribute to any community and earn
 
 You can use the **📚 Cookbooks** category on our discussion forum to share an article with others. The cookbooks section is NOT strictly moderated, except the shared knowledge should be relevant to the project.
 
-## Creating pull requests
+## Before creating a pull request
 It is never a good experience to have your pull request declined after investing a lot of time and effort in writing the code. Therefore, we highly recommend you to [kick off a discussion]() before starting any new work on your side.
 
 Just start a discussion and explain what are you planning to contribute? 
@@ -43,7 +43,8 @@ Just start a discussion and explain what are you planning to contribute?
 
 > Note: You should also be available to open additional PRs for documenting the contributed feature or improvement.
 
-## Repository setup
+## Repository setup & Creating pull requests
+In order to succesfully submit a change to the repository you will need to make a fork of the repository, and make a PR back to the upstream of the core project.
 
 1. Start by cloning the repo on your local machine.
 
