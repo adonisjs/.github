@@ -36,8 +36,7 @@ jobs:
       matrix:
         node-version: ["lts/iron", "latest"]
         exclude:
-          - os: windows-latest
-            node-version: latest
+          - node-version: latest
 
     steps:
     - name: Checkout code
