@@ -6,7 +6,7 @@ It is one of the rarest framework in the Node.js community that ships with a sui
 ## Features
 Following are some hand-picked features from the framework core and first party packages.
 
-- [HTTP layer](https://docs.adonisjs.com/guides/context) with support for **routing**, **middleware**, **session**, **secure cookies**, and a lot more.
+- [HTTP layer](https://docs.adonisjs.com/guides/concepts/http-overview#the-http-layer) with support for **routing**, **middleware**, **session**, **secure cookies**, and a lot more.
 - Support for [file uploads](https://docs.adonisjs.com/guides/file-uploads).
 - [Filesystem drive](https://docs.adonisjs.com/guides/drive) to move user uploaded files to cloud services like S3, GCS and Digital ocean.
 - [Schema validator](https://docs.adonisjs.com/guides/validator/introduction) to validate forms.
