@@ -20,7 +20,6 @@ Following are some hand-picked features from the framework core and first party 
 
 - [Official documentation](https://docs.adonisjs.com/)
 - [Adocasts](https://adocasts.com/)
-- [Adonis Mastery](https://adonismastery.com/)
 - [Awesome AdonisJS](https://github.com/adonisjs-community/awesome-adonisjs)
 - [Official newsletter](https://news.adonisjs.com/)
 - [Official VSCode extension](https://marketplace.visualstudio.com/items?itemName=jripouteau.adonis-vscode-extension)
