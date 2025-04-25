@@ -35,8 +35,6 @@ jobs:
     strategy:
       matrix:
         node-version: ["lts/iron", "lts/jod", "latest"]
-        exclude:
-          - node-version: latest
 
     steps:
       - name: Checkout code
