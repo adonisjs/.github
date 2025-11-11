@@ -8,11 +8,11 @@ Following are some hand-picked features from the framework core and first party 
 
 - [HTTP layer](https://docs.adonisjs.com/guides/concepts/http-overview#the-http-layer) with support for **routing**, **middleware**, **session**, **secure cookies**, and a lot more.
 - Support for [file uploads](https://docs.adonisjs.com/guides/file-uploads).
-- [Filesystem drive](https://docs.adonisjs.com/guides/drive) to move user uploaded files to cloud services like S3, GCS and Digital ocean.
-- [Schema validator](https://docs.adonisjs.com/guides/validator/introduction) to validate forms.
-- [Template engine](https://docs.adonisjs.com/guides/views/introduction) to create traditional server render applications in no time.
+- [Filesystem drive](https://docs.adonisjs.com/guides/digging-deeper/drive) to move user uploaded files to cloud services like S3, GCS and Digital ocean.
+- [Schema validator](https://docs.adonisjs.com/guides/basics/validation) to validate forms.
+- [Template engine](https://docs.adonisjs.com/guides/views-and-templates/introduction) to create traditional server render applications in no time.
 - [SQL ORM](https://docs.adonisjs.com/guides/sql) built on top of Active record.
-- A fully featured [authentication layer](https://docs.adonisjs.com/guides/auth/introduction) with support for **sessions**, **api tokens**, and **social auth**.
+- A fully featured [authentication layer](https://docs.adonisjs.com/guides/authentication/introduction) with support for **sessions**, **api tokens**, and **social auth**.
 - Baked-in support for [testing](https://docs.adonisjs.com/guides/testing/introduction)
 - We have just scratched the surface. AdonisJS has a lot more that you usually need when building robust applications.
 
