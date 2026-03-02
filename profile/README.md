@@ -9,7 +9,7 @@ Following are some hand-picked features from the framework core and first party 
 - Support for [file uploads](https://docs.adonisjs.com/guides/file-uploads).
 - [Filesystem drive](https://docs.adonisjs.com/guides/digging-deeper/drive) to move user uploaded files to cloud services like S3, GCS and Digital ocean.
 - [Schema validator](https://docs.adonisjs.com/guides/basics/validation) to validate forms.
-- [Template engine](https://docs.adonisjs.com/guides/views/introduction) to create traditional server render applications in no time.
+- [Template engine](https://docs.adonisjs.com/guides/frontend/edgejs) to create traditional server render applications in no time.
 - [SQL ORM](https://docs.adonisjs.com/guides/database/introduction) built on top of Active record.
 - A fully featured [authentication layer](https://docs.adonisjs.com/guides/authentication/introduction) with support for **sessions**, **api tokens**, and **social auth**.
 - Baked-in support for [testing](https://docs.adonisjs.com/guides/testing/introduction)
